@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+ <testsuite errors="0" failures="0" hostname="hkwok532TrainingPC" name="pytest" skipped="0" tests="1" time="0.016" timestamp="2020-02-07T10:17:52.022431">
+  <testcase classname="tests.test_add2" file="tests/test_add2.py" line="10" name="test_func" time="0.001"></testcase>
+ </testsuite>
+</testsuites>
